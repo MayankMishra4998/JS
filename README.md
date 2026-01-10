@@ -14,3 +14,6 @@ JavaScript Statements
 
 # Day 4 :-
 Variable's in js
+
+# Day 5 :- 
+Data type in Js
