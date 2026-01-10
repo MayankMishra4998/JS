@@ -8,3 +8,9 @@ Java Script Tutorial :-  Js Intero , How to JS connent , JS output
 
 # Day 2 : - 
 some function like console log & alert or  doucment.getElememtById 
+
+# Day 3 :- 
+JavaScript Statements
+
+# Day 4 :-
+Variable's in js
