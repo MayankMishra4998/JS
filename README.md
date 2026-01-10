@@ -5,3 +5,6 @@ This repository serves as a record of my practice, projects, and growth as I bui
 
 # Day 1 : - 
 Java Script Tutorial :-  Js Intero , How to JS connent , JS output
+
+# Day 2 : - 
+some function like console log & alert or  doucment.getElememtById 
