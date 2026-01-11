@@ -17,3 +17,6 @@ Variable's in js
 
 # Day 5 :- 
 Data type in Js
+
+# Day 6 :-
+Operator
