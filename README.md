@@ -20,3 +20,5 @@ Data type in Js
 
 # Day 6 :-
 Operator
+
+# Day 7 :-
