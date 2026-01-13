@@ -22,4 +22,4 @@ Data type in Js
 Operator
 
 # Day 7 :-
-If Else Statement , 
+If Else Statement , Loops
