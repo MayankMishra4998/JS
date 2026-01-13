@@ -22,3 +22,4 @@ Data type in Js
 Operator
 
 # Day 7 :-
+
