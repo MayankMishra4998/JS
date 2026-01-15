@@ -3,26 +3,18 @@
 I am currently learning JavaScript from scratch and documenting my progress here on GitHub.  
 This repository serves as a record of my practice, projects, and growth as I build a solid foundation in web development .
 
-# Day 1 : - 
-Java Script Tutorial :-  Js Intero , How to JS connent , JS output
+Day 1 : - Java Script Tutorial :-  Js Intero , How to JS connent , JS output
 
-# Day 2 : - 
-some function like console log & alert or  doucment.getElememtById 
+Day 2 : - some function like console log & alert or  doucment.getElememtById 
 
-# Day 3 :- 
-JavaScript Statements
+Day 3 :- JavaScript Statements
 
-# Day 4 :-
-Variable's in js
+Day 4 :-Variable's in js
 
-# Day 5 :- 
-Data type in Js
+Day 5 :- Data type in Js
+ 
+Day 6 :-Operator
 
-# Day 6 :-
-Operator
+Day 7 :-If Else Statement , Loops
 
-# Day 7 :-
-If Else Statement , Loops
-
-# Day 8 :- 
-String & Number
+Day 8 :- String & Number
