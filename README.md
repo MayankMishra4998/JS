@@ -19,4 +19,4 @@ Day 7 :-If Else Statement , Loops
 
 Day 8 :- String & Number
 
-Day 8 :- Functions
+Day 9 :- Functions
