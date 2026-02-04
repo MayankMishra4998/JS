@@ -22,3 +22,5 @@ Day 8 :- String & Number
 Day 9 :- Functions
 
 Day 10 :- Object
+
+Day 11 :- Scops , Date's , Temporal Dates 
