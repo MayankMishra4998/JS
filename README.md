@@ -24,3 +24,5 @@ Day 9 :- Functions
 Day 10 :- Object
 
 Day 11 :- Scops , Date's , Temporal Dates 
+
+Day 12 :- Arrey
